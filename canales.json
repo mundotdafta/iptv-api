@@ -1,0 +1,13 @@
+[
+  {
+    "nombre": "Telefe Internacional",
+    "grupo": "Buenos Aires",
+    "logo": "https://...",
+    "url": "https://...Telefe.mpd",
+    "drm": {
+      "type": "clearkey",
+      "keyId": "cc0abc...",
+      "key": "9b78..."
+    }
+  }
+]
