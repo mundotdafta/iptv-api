@@ -1,67 +1,47 @@
 [
   {
-    "title": "Net TV",
+    "nombre": "Net TV",
+    "grupo": "Nacionales",
+    "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png",
     "url": "https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "1",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
-    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
+    "drm": {
+      "type": "clearkey",
+      "keyId": "3cec1b1ea9799dda5596e64f37e5ed20",
+      "key": "c69f3afde2085dcaaaddbf55246a0323"
+    }
   },
   {
-    "title": "Telemax",
-    "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "2",
-    "drmType": "",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "",
-    "drmKey": ""
+    "nombre": "Telemax",
+    "grupo": "Nacionales",
+    "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
+    "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8"
   },
   {
-    "title": "TV Pública hd",
+    "nombre": "TV Pública HD",
+    "grupo": "Nacionales",
+    "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
     "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
-    "epg": "TVPublica.ar",
-    "group": "Nacionales",
-    "number": "3",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "cc8c82ac2ec7e9799527c29db7354e81",
-    "drmKey": "cc4aae173dd2ef17ae26be3f7ae87662"
+    "drm": {
+      "type": "clearkey",
+      "keyId": "cc8c82ac2ec7e9799527c29db7354e81",
+      "key": "cc4aae173dd2ef17ae26be3f7ae87662"
+    }
   },
   {
-    "title": "Telefe HD",
+    "nombre": "Telefe HD",
+    "grupo": "Música",
+    "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
-    "epg": "NETTV.ar",
-    "group": "Música",
-    "number": "10",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
-    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
+    "drm": {
+      "type": "clearkey",
+      "keyId": "3cec1b1ea9799dda5596e64f37e5ed20",
+      "key": "c69f3afde2085dcaaaddbf55246a0323"
+    }
   },
   {
-    "title": "Canal 12 Misiones",
-    "url": "https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
-    "epg": "NETTV.ar",
-    "group": "Provinciales",
-    "number": "14",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
-    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
+    "nombre": "Canal 12 Misiones",
+    "grupo": "Provinciales",
+    "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
+    "url": "https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8"
   }
 ]
