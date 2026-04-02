@@ -1,98 +1,16 @@
 {
   "channels": [
     {
-      "name": "TV PUBLICA",
-      "group": "ARGENTINA",
-      "logo": "https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png",
-      "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
-      "drm": {
-        "type": "clearkey",
-        "key": {
-          "kty": "oct",
-          "k": "zEquFz3S7xeuJr4/euh2Yg",
-          "kid": "zIyCrC7H6XmVJ8KdtzVOgQ"
-        }
-      },
-      "headers": {
-        "Origin": "https://portal.app.flow.com.ar/"
-      }
+      "name": "Canal 26",
+      "url": "http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8",
+      "logo": "",
+      "group": "Noticias"
     },
     {
       "name": "TN",
-      "url": "https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958"
-      }
-    },
-    {
-      "name": "A24",
-      "url": "https://bvclive1.boldmss.com/A24/A24_BVC.isml/A24.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "b566d46e6bc340dbabb14761b721f718:dc16d14e8b45781e120f54279c5f6a93"
-      }
-    },
-    {
-      "name": "C5N",
-      "url": "https://bvclive1.boldmss.com/C5N/C5N_BVC.isml/C5N.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "9664f194571646379fee20a080ecce4b:b2870d1257acfc9da74057d2b286e68e"
-      }
-    },
-    {
-      "name": "CRONICA HD",
-      "url": "https://bvclive1.boldmss.com/CRONICA_TV/CRONICA_TV_BVC.isml/CRONICA_TV.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "eafc0a6924d1469486c538ce8cac7048:c56b8f4f1591ac79ff8f2f73072bb2cf"
-      }
-    },
-    {
-      "name": "✔️ America TV 📱",
-      "group": "Buenos Aires",
-      "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45"
-      }
-    },
-    {
-      "name": "✔️ Mix TV 📱",
-      "group": "Buenos Aires",
-      "url": "https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18"
-      }
-    },
-    {
-      "name": "✔️ Cronica TV 📱",
-      "group": "Noticias",
-      "url": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352"
-      }
-    },
-    {
-      "name": "✔️ El Trece 📱",
-      "group": "Buenos Aires",
-      "url": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76"
-      }
-    },
-    {
-      "name": "✔️ Volver 📱",
-      "group": "Cine",
-      "url": "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd",
-      "drm": {
-        "type": "clearkey",
-        "license_key": "194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe"
-      }
+      "url": "https://tn.com.ar/stream.m3u8",
+      "logo": "",
+      "group": "Noticias"
     }
   ]
 }
