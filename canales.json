@@ -1,4 +1,75 @@
-[
+{
+  "channels": [
+{
+  "name": "TV PUBLICA",
+  "group": "ARGENTINA",
+  "logo": "https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png",
+  "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+  "props": {
+    "license_type": "clearkey",
+    "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zEquFz3S7xeuJr4/euh2Yg\",\"kid\":\"zIyCrC7H6XmVJ8KdtzVOgQ\"}]}",
+    "headers": "Origin=https://portal.app.flow.com.ar/"
+  }
+},
+{
+  "name": "TN",
+  "url": "https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd",
+  "props": {
+    "license_type": "org.w3.clearkey",
+    "license_key": "e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958"
+  }
+},
+{
+  "name": "A24",
+  "url": "https://bvclive1.boldmss.com/A24/A24_BVC.isml/A24.mpd",
+  "props": {
+    "license_type": "org.w3.clearkey",
+    "license_key": "b566d46e6bc340dbabb14761b721f718:dc16d14e8b45781e120f54279c5f6a93"
+  }
+}
+,
+{
+  "name": "CRONICA HD",
+  "url": "https://bvclive1.boldmss.com/CRONICA_TV/CRONICA_TV_BVC.isml/CRONICA_TV.mpd",
+  "props": {
+    "license_type": "org.w3.clearkey",
+    "license_key": "eafc0a6924d1469486c538ce8cac7048:c56b8f4f1591ac79ff8f2f73072bb2cf"
+  }
+},
+{
+  "name": "✔️ TV Publica 📱",
+  "group": "🏙️ Buenos Aires",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
+  "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+  "props": {
+    "inputstream": "inputstream.adaptive",
+    "manifest_type": "mpd",
+    "license_type": "org.w3.clearkey",
+    "license_key": "cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662",
+    "headers": "User-Agent=Mozilla/5.0&Referer=https://portal.app.flow.com.ar/&Origin=https://portal.app.flow.com.ar&Accept=*/*"
+  }
+},
+{
+  "name": "Fox Sports MX",
+  "group": "Fórmula 1",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+  "props": {
+    "manifest_type": "mpd",
+    "license_type": "clearkey",
+    "license_key": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f"
+  }
+},
+{
+  "name": "✔️ America TV 📱",
+  "group": "🏙️ Buenos Aires",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
+  "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+  "props": {
+    "license_type": "clearkey",
+    "license_key": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45"
+  }
+}
   {
     "title": "Net TV",
     "url": "https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8",
