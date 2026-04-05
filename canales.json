@@ -4,7 +4,7 @@
   "name": "TV PUBLICA",
   "group": "ARGENTINA",
   "logo": "https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png",
-  "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+  "url": "http://45.238.54.67:8000/play/a04z/index.m3u8",
   "props": {
     "license_type": "clearkey",
     "license_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"zEquFz3S7xeuJr4/euh2Yg\",\"kid\":\"zIyCrC7H6XmVJ8KdtzVOgQ\"}]}",
