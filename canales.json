@@ -12,11 +12,11 @@
   }
 },
 {
-  "name": "TN",
-  "url": "https://bvclive1.boldmss.com/TN/TN_BVC.isml/TN.mpd",
+  "name": "MI TV PUBLICA",
+  "url": "http://190.7.19.197:232/play/a03c/index.m3u8",
   "props": {
     "license_type": "org.w3.clearkey",
-    "license_key": "e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958"
+    "license_key": ""
   }
 },
 {
