@@ -1,12 +1,6 @@
 
 {
   "channels": [
-  {
-    "name": "TN en Vivo",
-    "logo": "https://i.imgur.com/8RKXAIV.png",
-    "youtube_id": "https://www.youtube.com/watch?v=vGNglKWqwcQ",
-    "type": "youtube"
- },
 {
   "name": "CRONICA TV 🎙️",
   "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
