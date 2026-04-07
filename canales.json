@@ -1,1 +1,164 @@
 
+{
+  "channels": [
+    {
+      "name": "CRONICA TV 🎙️",
+      "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
+      "group": "NOTICIAS",
+      "url": "https://g1.mc-slo.transport.edge-apps.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_480p.m3u8",
+      "options": {
+        "http-referrer": "http://vmf.edge-apps.net"
+      }
+    },
+    {
+      "name": "CRONICA TV 🎙️",
+      "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a041/index.m3u8"
+    },
+    {
+      "name": "Ar|12 🎙️",
+      "logo": "https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg",
+      "group": "NOTICIAS",
+      "url": "http://liketv.pro:80/User1626/28TM4MEU66/246843.ts"
+    },
+    {
+      "name": "Ar|12 🎙️",
+      "logo": "https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a00o/index.m3u8"
+    },
+    {
+      "name": "A24 🎙️",
+      "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a03z/index.m3u8"
+    },
+    {
+      "name": "A24 🎙️",
+      "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png",
+      "group": "NOTICIAS",
+      "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
+      "options": {
+        "http-user-agent": "Android 8.0.0"
+      }
+    },
+    {
+      "name": "A24 🎙️",
+      "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png",
+      "group": "NOTICIAS",
+      "tvg-id": "A24.ar",
+      "url": "http://181.13.252.102:8000/play/a01o/index.m3u8"
+    },
+    {
+      "name": "CANAL 26 🎙️",
+      "logo": "https://raw.githubusercontent.com/mortal251/logos/main/CANAL_26.jpg",
+      "group": "NOTICIAS",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+    },
+    {
+      "name": "CANAL 26 🎙️",
+      "logo": "https://raw.githubusercontent.com/mortal251/logos/main/CANAL_26.jpg",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a042/index.m3u8"
+    },
+    {
+      "name": "C5N 🎙️",
+      "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a040/index.m3u8"
+    },
+    {
+      "name": "LA NACION + 🎙️",
+      "logo": "https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a043/index.m3u8"
+    },
+    {
+      "name": "✔️ Bravo TV 🏙️",
+      "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png",
+      "group": "NOTICIAS",
+      "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
+    },
+    {
+      "name": "TN NOTICIA HD 🎙️",
+      "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png",
+      "group": "NOTICIAS",
+      "url": "https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8"
+    },
+    {
+      "name": "EL NUEVE 🎙️",
+      "logo": "https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a03k/index.m3u8"
+    },
+    {
+      "name": "TV Pública 🎙️",
+      "logo": "https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a03c/index.m3u8"
+    },
+    {
+      "name": "El Destape Sin Fin 🎙️",
+      "logo": "https://radiosargentina.com.ar/png/VIELDEST.png",
+      "group": "NOTICIAS",
+      "url": "http://190.7.19.197:232/play/a00r/index.m3u8"
+    },
+    {
+      "name": "CANAL E 🎙️",
+      "logo": "https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1",
+      "group": "NOTICIAS",
+      "url": "https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+    },
+    {
+      "name": "✔️ TV Publica 📱",
+      "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
+      "group": "🏙️ Buenos Aires",
+      "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+      "options": {
+        "inputstream.adaptive.license_type": "clearkey",
+        "inputstream.adaptive.license_key": "cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662"
+      }
+    },
+    {
+      "name": "✔️ El Nueve 📱",
+      "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
+      "group": "🏙️ Buenos Aires",
+      "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
+      "options": {
+        "inputstream.adaptive.license_type": "clearkey",
+        "inputstream.adaptive.license_key": "24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020"
+      }
+    },
+    {
+      "name": "✔️ Telefe 📱",
+      "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+      "group": "🏙️ Buenos Aires",
+      "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+      "options": {
+        "inputstream.adaptive.license_type": "clearkey",
+        "inputstream.adaptive.license_key": "3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323"
+      }
+    },
+    {
+      "name": "✔️ Bravo TV 📱",
+      "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png",
+      "group": "🏙️ Buenos Aires",
+      "url": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_C/BravoTV.mpd",
+      "options": {
+        "inputstream.adaptive.license_type": "clearkey",
+        "inputstream.adaptive.license_key": "ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93"
+      }
+    },
+    {
+      "name": "✔️ Mix TV 📱",
+      "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmixtv.png",
+      "group": "🏙️ Buenos Aires",
+      "url": "https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd",
+      "options": {
+        "inputstream.adaptive.license_type": "clearkey",
+        "inputstream.adaptive.license_key": "0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18"
+      }
+    }
+  ]
+}
