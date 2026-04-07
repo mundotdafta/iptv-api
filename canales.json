@@ -1,6 +1,50 @@
 
 {
   "channels": [
+    [
+  {
+    "name": "Quiero Música TV",
+    "url": "https://youtube.com",
+    "logo": "https://wikimedia.org",
+    "type": "live",
+    "country": "Argentina"
+  },
+  {
+    "name": "Crónica TV",
+    "url": "https://youtube.com",
+    "logo": "https://wikimedia.org",
+    "type": "live",
+    "country": "Argentina"
+  },
+  {
+    "name": "El Nueve",
+    "url": "https://youtube.com",
+    "logo": "https://wikimedia.org",
+    "type": "live",
+    "country": "Argentina"
+  },
+  {
+    "name": "Canal 26",
+    "url": "https://youtube.com",
+    "logo": "https://wikimedia.org",
+    "type": "live",
+    "country": "Argentina"
+  },
+  {
+    "name": "TN (Todo Noticias)",
+    "url": "https://youtube.com",
+    "logo": "https://wikimedia.org",
+    "type": "live",
+    "country": "Argentina"
+  },
+  {
+    "name": "C5N",
+    "url": "https://youtube.com",
+    "logo": "https://wikimedia.org",
+    "type": "live",
+    "country": "Argentina"
+  }
+]
     {
       "name": "CRONICA TV 🎙️",
       "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
