@@ -7,7 +7,7 @@
       "group": "NOTICIAS",
       "url": "https://g1.mc-slo.transport.edge-apps.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_480p.m3u8",
       "options": {
-        "http-referrer": "Android 8.0.0"
+        "http-referrer": "http://vmf.edge-apps.net"
       }
     },
     {
