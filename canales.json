@@ -7,14 +7,16 @@
     "youtube_id": "https://www.youtube.com/watch?v=vGNglKWqwcQ",
     "type": "youtube"
  },
-    {
-      "name": "CRONICA TV 🎙️",
-      "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
-      "group": "NOTICIAS",
-      "url": "https://g1.mc-slo.transport.edge-apps.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_480p.m3u8",
-      "options": {
-        "http-referrer": "http://vmf.edge-apps.net"
-      }
+{
+  "name": "CRONICA TV 🎙️",
+  "logo": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
+  "group": "NOTICIAS",
+  "url": "https://g1.mc-slo.transport.edge-apps.net/a09/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_480p.m3u8",
+  "headers": {
+    "Referer": "http://vmf.edge-apps.net",
+    "User-Agent": "Mozilla/5.0"
+  }
+}
     },
     {
       "name": "CRONICA TV 🎙️",
