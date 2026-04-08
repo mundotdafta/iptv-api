@@ -6,7 +6,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
-    "number": "1"
   },
   {
     "title": "Telemax",
@@ -14,7 +13,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
     "epg": "Telemax.ar",
     "group": "Nacionales",
-    "number": "2"
   },
   {
     "title": "C5N",
@@ -22,7 +20,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png",
     "epg": "C5N.ar",
     "group": "Nacionales",
-    "number": "3"
   },
   {
     "title": "TV Pública",
@@ -30,7 +27,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
     "epg": "TVPublica.ar",
     "group": "Nacionales",
-    "number": "4"
   },
   {
     "title": "Crónica TV",
@@ -38,7 +34,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
     "epg": "CronicaTV.ar",
     "group": "Nacionales",
-    "number": "5"
   },
   {
     "title": "Canal 26",
@@ -46,7 +41,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png",
     "epg": "Canal26.ar",
     "group": "Nacionales",
-    "number": "6"
   },
   {
     "title": "A24",
@@ -54,7 +48,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png",
     "epg": "A24.ar",
     "group": "Nacionales",
-    "number": "7"
   },
   {
     "title": "TN",
@@ -62,7 +55,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png",
     "epg": "TN.ar",
     "group": "Nacionales",
-    "number": "8"
   },
   {
     "title": "La Nación+",
@@ -70,7 +62,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png",
     "epg": "LaNacionPlus.ar",
     "group": "Nacionales",
-    "number": "9"
   },
   {
     "title": "Telefe",
@@ -78,7 +69,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
     "epg": "Telefe.ar",
     "group": "Nacionales",
-    "number": "10"
   },
   {
     "title": "El Trece",
@@ -86,7 +76,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png",
     "epg": "ElTrece.ar",
     "group": "Nacionales",
-    "number": "11"
   },
   {
     "title": "El Nueve",
@@ -94,7 +83,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png",
     "epg": "ElNueve.ar",
     "group": "Nacionales",
-    "number": "12"
   },
   {
     "title": "América TV",
@@ -102,7 +90,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png",
     "epg": "AmericaTV.ar",
     "group": "Nacionales",
-    "number": "13"
   },
   {
     "title": "Canal 12 Misiones",
@@ -110,7 +97,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
     "epg": "",
     "group": "Provinciales",
-    "number": "14"
   },
   {
     "title": "Canal Luz",
@@ -118,7 +104,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/10-CanalLuz.png",
     "epg": "CanalLuz.ar",
     "group": "Cristianos",
-    "number": "15"
   },
   {
     "title": "DW Español",
@@ -126,7 +111,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-DW.png",
     "epg": "Deutsche.Welle.TV.Español.(DW-ES).ar",
     "group": "Internacionales",
-    "number": "16"
   },
   {
     "title": "CNN en Español",
@@ -134,7 +118,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png",
     "epg": "CNNenEspanol.us",
     "group": "Internacionales",
-    "number": "17"
   },
   {
     "title": "Telemundo Internacional",
@@ -142,7 +125,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png",
     "epg": "TelemundoInternacional.us@CentralAmerica",
     "group": "Internacionales",
-    "number": "18"
   },
   {
     "title": "Telesur",
@@ -150,7 +132,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png",
     "epg": "Telesur.ve",
     "group": "Internacionales",
-    "number": "19"
   },
   {
     "title": "TV Globo",
@@ -158,7 +139,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-TVGlobo.png",
     "epg": "TVGloboInternacionalAmericas.br",
     "group": "Internacionales",
-    "number": "19"
   },
   {
     "title": "Encuentro",
@@ -166,7 +146,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png",
     "epg": "Encuentro.ar",
     "group": "Culturales",
-    "number": "20"
   },
   {
     "title": "NatGeo",
@@ -174,7 +153,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png",
     "epg": "NationalGeographicLatinAmerica.us@South",
     "group": "Culturales",
-    "number": "21"
   },
   {
     "title": "Discovery Channel",
@@ -182,7 +160,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png",
     "epg": "DiscoveryChannelLatinAmerica.us@South",
     "group": "Culturales",
-    "number": "22"
   },
   {
     "title": "Discovery TLC",
@@ -190,7 +167,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png",
     "epg": "TLCLatinAmerica.us@South",
     "group": "Culturales",
-    "number": "23"
   },
   {
     "title": "Discovery Turbo",
@@ -198,7 +174,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png",
     "epg": "DiscoveryTurboLatinAmerica.us@Panregional",
     "group": "Culturales",
-    "number": "24"
   },
   {
     "title": "Discovery H&H",
@@ -206,7 +181,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png",
     "epg": "DiscoveryHomeHealthLatinAmerica.mx@South",
     "group": "Culturales",
-    "number": "25"
   },
   {
     "title": "History",
@@ -214,7 +188,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png",
     "epg": "HistoryLatinAmerica.us@South",
     "group": "Culturales",
-    "number": "26"
   },
   {
     "title": "History 2",
@@ -222,7 +195,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png",
     "epg": "History2LatinAmerica.us@Panregional",
     "group": "Culturales",
-    "number": "27"
   },
   {
     "title": "Animal Planet",
@@ -230,7 +202,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png",
     "epg": "AnimalPlanetLatinAmerica.us",
     "group": "Culturales",
-    "number": "28"
   },
   {
     "title": "Investigation Discovery (ID)",
@@ -238,7 +209,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png",
     "epg": "InvestigationDiscoveryLatinAmerica.us@South",
     "group": "Culturales",
-    "number": "29"
   },
   {
     "title": "A&E",
@@ -246,7 +216,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png",
     "epg": "AELatinAmerica.us@South",
     "group": "Culturales",
-    "number": "30"
   },
   {
     "title": "Lifetime",
@@ -254,7 +223,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png",
     "epg": "LifetimeLatinAmerica.us@Panregional",
     "group": "Culturales",
-    "number": "31"
   },
   {
     "title": "DEPORTV",
@@ -262,7 +230,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png",
     "epg": "DeporTV.ar",
     "group": "Deportes",
-    "number": "32"
   },
   {
     "title": "TyC Sports",
@@ -270,7 +237,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png",
     "epg": "TyCSports.ar",
     "group": "Deportes",
-    "number": "33"
   },
   {
     "title": "ESPN",
@@ -278,7 +244,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png",
     "epg": "ar#espn-2",
     "group": "Deportes",
-    "number": "34"
   },
   {
     "title": "ESPN 2",
@@ -286,7 +251,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png",
     "epg": "ar#espn",
     "group": "Deportes",
-    "number": "35"
   },
   {
     "title": "ESPN 3",
@@ -294,7 +258,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png",
     "epg": "ar#espn-3",
     "group": "Deportes",
-    "number": "36"
   },
   {
     "title": "FOX Sports",
@@ -302,7 +265,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png",
     "epg": "FoxSports.ar",
     "group": "Deportes",
-    "number": "37"
   },
   {
     "title": "FOX Sports 2",
@@ -310,7 +272,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png",
     "epg": "FoxSports2.ar",
     "group": "Deportes",
-    "number": "38"
   },
   {
     "title": "FOX Sports 3",
@@ -318,7 +279,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",
     "epg": "FoxSports3LatinAmerica.us@Panregional",
     "group": "Deportes",
-    "number": "39"
   },
   {
     "title": "ESPN Premium",
@@ -326,7 +286,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png",
     "epg": "ESPNPremium.ar",
     "group": "Deportes",
-    "number": "40"
   },
   {
     "title": "TNT Sports",
@@ -334,7 +293,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png",
     "epg": "TNTSports.ar",
     "group": "Deportes",
-    "number": "41"
   },
   {
     "title": "Cartoon Network",
@@ -342,7 +300,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png",
     "epg": "CartoonNetworkLatinAmerica.us@SouthAtlantic",
     "group": "Infantiles",
-    "number": "42"
   },
   {
     "title": "Nickelodeon",
@@ -350,7 +307,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png",
     "epg": "ar#nickelodeon-hd",
     "group": "Infantiles",
-    "number": "43"
   },
   {
     "title": "Disney Channel",
@@ -358,7 +314,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png",
     "epg": "DisneyChannelLatinAmerica.ar@South",
     "group": "Infantiles",
-    "number": "44"
   },
   {
     "title": "Discovery Kids",
@@ -366,7 +321,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png",
     "epg": "DiscoveryKidsLatinAmerica.us@Panregional",
     "group": "Infantiles",
-    "number": "45"
   },
   {
     "title": "Nick Junior",
@@ -374,7 +328,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png",
     "epg": "NickJrLatinAmerica.us@South",
     "group": "Infantiles",
-    "number": "46"
   },
   {
     "title": "Disney Junior",
@@ -382,7 +335,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png",
     "epg": "ar#disney-jr",
     "group": "Infantiles",
-    "number": "47"
   },
   {
     "title": "Cartoonito",
@@ -398,7 +350,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png",
     "epg": "ar#fox-hd",
     "group": "Cine & Series",
-    "number": "49"
   },
   {
     "title": "FX",
@@ -406,7 +357,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png",
     "epg": "FXLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "50"
   },
   {
     "title": "Cinemax",
@@ -414,7 +364,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png",
     "epg": "ar#cinemax-sur",
     "group": "Cine & Series",
-    "number": "51"
   },
   {
     "title": "Space",
@@ -422,7 +371,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png",
     "epg": "Space.ar@Panregional",
     "group": "Cine & Series",
-    "number": "52"
   },
   {
     "title": "Cinecanal",
@@ -430,7 +378,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png",
     "epg": "Cinecanal.us@Panregional",
     "group": "Cine & Series",
-    "number": "53"
   },
   {
     "title": "AXN",
@@ -438,7 +385,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png",
     "epg": "ar#axn",
     "group": "Cine & Series",
-    "number": "54"
   },
   {
     "title": "Warner Channel",
@@ -446,7 +392,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png",
     "epg": "WarnerChannel.us@South",
     "group": "Cine & Series",
-    "number": "55"
   },
   {
     "title": "Sony Channel",
@@ -454,7 +399,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png",
     "epg": "FXLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "56"
   },
   {
     "title": "Universal TV",
@@ -462,7 +406,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png",
     "epg": "UniversalTVLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "57"
   },
   {
     "title": "Studio Universal",
@@ -470,7 +413,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StudioUniversal.png",
     "epg": "StudioUniversalLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "58"
   },
   {
     "title": "AMC",
@@ -478,7 +420,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png",
     "epg": "AMCLatinAmerica.us",
     "group": "Cine & Series",
-    "number": "59"
   },
   {
     "title": "TNT",
@@ -486,7 +427,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png",
     "epg": "TNTLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "60"
   },
   {
     "title": "TNT Series",
@@ -494,7 +434,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png",
     "epg": "TNTSeriesLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "61"
   },
   {
     "title": "TNT Novelas",
@@ -502,7 +441,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png",
     "epg": "TBSSouth.us",
     "group": "Novelas",
-    "number": "62"
   },
   {
     "title": "HBO",
@@ -510,7 +448,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png",
     "epg": "ar#hbo",
     "group": "Cine & Series",
-    "number": "63"
   },
   {
     "title": "HBO 2",
@@ -518,7 +455,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png",
     "epg": "ar#hbo-2-hd",
     "group": "Cine & Series",
-    "number": "64"
   },
   {
     "title": "HBO Plus",
@@ -526,7 +462,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png",
     "epg": "ar#hbo-plus-este",
     "group": "Cine & Series",
-    "number": "65"
   },
   {
     "title": "HBO Family",
@@ -534,7 +469,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png",
     "epg": "ar#hbo-family-hd",
     "group": "Cine & Series",
-    "number": "66"
   },
   {
     "title": "HBO Pop",
@@ -542,7 +476,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png",
     "epg": "HBOPopLatinAmerica.us",
     "group": "Cine & Series",
-    "number": "67"
   },
   {
     "title": "HBO Xtreme",
@@ -550,7 +483,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png",
     "epg": "HBOXtremeLatinAmerica.us",
     "group": "Cine & Series",
-    "number": "68"
   },
   {
     "title": "Cine.ar",
@@ -558,7 +490,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-CineAr.png",
     "epg": "CineAr.ar",
     "group": "Cine & Series",
-    "number": "69"
   },
   {
     "title": "TCM",
@@ -566,7 +497,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png",
     "epg": "TCMLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "70"
   },
   {
     "title": "Volver",
@@ -574,7 +504,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Volver.png",
     "epg": "Volver.ar",
     "group": "Cine & Series",
-    "number": "71"
   },
   {
     "title": "Pasiones",
@@ -582,7 +511,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png",
     "epg": "PasionesLatinAmerica.us",
     "group": "Novelas",
-    "number": "72"
   },
   {
     "title": "Food Network",
@@ -590,7 +518,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png",
     "epg": "FoodNetworkLatinAmerica.us@Panregional",
     "group": "Cocina",
-    "number": "73"
   },
   {
     "title": "El Gourmet",
@@ -598,7 +525,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png",
     "epg": "ElGourmet.ar@South",
     "group": "Cocina",
-    "number": "74"
   },
   {
     "title": "Hola TV",
@@ -614,7 +540,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-E.png",
     "epg": "ELatinAmerica.us@Andes",
     "group": "Espectaculo",
-    "number": "76"
   },
   {
     "title": "Ciudad Magazine",
@@ -622,7 +547,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png",
     "epg": "CiudadMagazine.ar",
     "group": "Espectaculo",
-    "number": "77"
   },
   {
     "title": "MTV",
@@ -630,7 +554,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png",
     "epg": "MTVLatinAmerica.us@Panregional",
     "group": "Música",
-    "number": "78"
   },
   {
     "title": "HTV",
@@ -638,7 +561,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png",
     "epg": "HTV.us",
     "group": "Música",
-    "number": "79"
   },
   {
     "title": "Music Top",
@@ -646,6 +568,5 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MusicTop.png",
     "epg": "MusicTop.ar",
     "group": "Música",
-    "number": "80"
   }
 ]
