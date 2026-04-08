@@ -1,11 +1,10 @@
 {
   "users": [
-{
-  "users": [
     {
       "username": "mariano",
       "password": "1234",
-      "enabled": true
+      "enabled": true,
+      "max_devices": 2
     }
   ]
 }
