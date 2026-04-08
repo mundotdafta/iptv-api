@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "mariano@gmail.com",
+      "avatar": "https://i.ibb.co/4pDNDk1/user.png",
+      "enabled": true,
+      "devices": [
+        "AQUI_TU_DEVICE_ID"
+      ]
+    }
+  ]
+}
