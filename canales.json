@@ -15,8 +15,6 @@
       "group": "Nacionales",
       "tvg-id": "Canal26.ar"
     },
-
-    // 🔐 DRM BIEN HECHO (formato nuevo)
     {
       "title": "✔️ TV Pública DRM",
       "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
