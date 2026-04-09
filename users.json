@@ -2,9 +2,9 @@
   "users": [
     {
       "username": "mariano",
-      "password": "1234",
+      "password": "12345",
       "enabled": true,
-      "max_devices": 2
+      "max_devices": 5
     }
   ]
 }
