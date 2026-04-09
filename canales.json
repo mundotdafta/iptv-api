@@ -1,6 +1,5 @@
 {
   "channels": [
-
     {
       "title": "TV Pública (DRM)",
       "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
@@ -94,7 +93,7 @@
       "url": "http://45.238.54.67:8000/play/a03h/index.m3u8",
       "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png",
       "group": "Nacionales"
-    }
-    
-  ]
-}
+   }
+    ]
+  }
+]
