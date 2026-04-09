@@ -1,6 +1,5 @@
-{
-  "channels": [
-    {
+
+  {
       "title": "Telemax",
       "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
       "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
