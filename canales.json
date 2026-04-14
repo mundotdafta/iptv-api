@@ -1,650 +1,936 @@
 [
   {
-    "title": "Net TV",
-    "url": "https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "1"
-  },
-  {
-    "title": "Telemax",
-    "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
-    "epg": "Telemax.ar",
-    "group": "Nacionales",
-    "number": "2"
-  },
-  {
-    "title": "C5N",
-    "url": "http://190.7.19.197:232/play/a040/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png",
-    "epg": "C5N.ar",
-    "group": "Nacionales",
-    "number": "3"
-  },
-  {
-    "title": "TV Pública",
-    "url": "http://190.7.19.197:232/play/a03c/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
-    "epg": "TVPublica.ar",
-    "group": "Nacionales",
-    "number": "4"
-  },
-  {
-    "title": "Crónica TV",
-    "url": "http://190.7.19.197:232/play/a041/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
-    "epg": "CronicaTV.ar",
-    "group": "Nacionales",
-    "number": "5"
-  },
-  {
-    "title": "Canal 26",
-    "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png",
-    "epg": "Canal26.ar",
-    "group": "Nacionales",
-    "number": "6"
-  },
-  {
-    "title": "A24",
-    "url": "http://190.7.19.197:232/play/a03z/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png",
-    "epg": "A24.ar",
-    "group": "Nacionales",
-    "number": "7"
-  },
-  {
-    "title": "TN",
-    "url": "http://190.7.19.197:232/play/a03l/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png",
-    "epg": "TN.ar",
-    "group": "Nacionales",
-    "number": "8"
-  },
-  {
-    "title": "La Nación+",
-    "url": "http://190.7.19.197:232/play/a043/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png",
-    "epg": "LaNacionPlus.ar",
-    "group": "Nacionales",
-    "number": "9"
-  },
-  {
-    "title": "Telefe",
-    "url": "http://190.7.19.197:232/play/a059/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
-    "epg": "Telefe.ar",
-    "group": "Nacionales",
-    "number": "10"
-  },
-  {
-    "title": "El Trece",
-    "url": "http://190.7.19.197:232/play/a05a/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png",
-    "epg": "ElTrece.ar",
-    "group": "Nacionales",
-    "number": "11"
-  },
-  {
-    "title": "El Nueve",
-    "url": "http://190.7.19.197:232/play/a03k/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png",
-    "epg": "ElNueve.ar",
-    "group": "Nacionales",
-    "number": "12"
-  },
-  {
-    "title": "América TV",
-    "url": "http://190.7.19.197:232/play/a03b/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png",
-    "epg": "AmericaTV.ar",
-    "group": "Nacionales",
-    "number": "13"
-  },
-  {
-    "title": "Canal 12 Misiones",
-    "url": "https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
-    "epg": "",
-    "group": "Provinciales",
-    "number": "14"
-  },
-  {
-    "title": "Canal Luz",
-    "url": "https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/10-CanalLuz.png",
-    "epg": "CanalLuz.ar",
-    "group": "Cristianos",
-    "number": "15"
-  },
-  {
-    "title": "DW Español",
-    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-DW.png",
-    "epg": "Deutsche.Welle.TV.Español.(DW-ES).ar",
-    "group": "Internacionales",
-    "number": "16"
-  },
-  {
-    "title": "CNN en Español",
-    "url": "http://190.7.19.197:232/play/a03j/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png",
-    "epg": "CNNenEspanol.us",
-    "group": "Internacionales",
-    "number": "17"
-  },
-  {
-    "title": "Telemundo Internacional",
-    "url": "http://45.238.54.67:8000/play/a04k/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png",
-    "epg": "TelemundoInternacional.us@CentralAmerica",
-    "group": "Internacionales",
-    "number": "18"
-  },
-  {
-    "title": "Telesur",
-    "url": "http://190.7.19.197:232/play/a08p/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png",
-    "epg": "Telesur.ve",
-    "group": "Internacionales",
-    "number": "19"
-  },
-  {
-    "title": "TV Globo",
-    "url": "http://190.7.19.197:232/play/a00w/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-TVGlobo.png",
-    "epg": "TVGloboInternacionalAmericas.br",
-    "group": "Internacionales",
-    "number": "19"
-  },
-  {
-    "title": "Encuentro",
-    "url": "http://190.7.19.197:232/play/a013/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png",
-    "epg": "Encuentro.ar",
-    "group": "Culturales",
-    "number": "20"
-  },
-  {
-    "title": "NatGeo",
-    "url": "http://190.7.19.197:232/play/a03s/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png",
-    "epg": "NationalGeographicLatinAmerica.us@South",
-    "group": "Culturales",
-    "number": "21"
-  },
-  {
-    "title": "Discovery Channel",
-    "url": "http://190.7.19.197:232/play/a065/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png",
-    "epg": "DiscoveryChannelLatinAmerica.us@South",
-    "group": "Culturales",
-    "number": "22"
-  },
-  {
-    "title": "Discovery TLC",
-    "url": "",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png",
-    "epg": "TLCLatinAmerica.us@South",
-    "group": "Culturales",
-    "number": "23"
-  },
-  {
-    "title": "Discovery Turbo",
-    "url": "http://190.7.19.197:232/play/a045/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png",
-    "epg": "DiscoveryTurboLatinAmerica.us@Panregional",
-    "group": "Culturales",
-    "number": "24"
-  },
-  {
-    "title": "Discovery H&H",
-    "url": "http://190.7.19.197:232/play/a064/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png",
-    "epg": "DiscoveryHomeHealthLatinAmerica.mx@South",
-    "group": "Culturales",
-    "number": "25"
-  },
-  {
-    "title": "History",
-    "url": "http://190.7.19.197:232/play/a03h/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png",
-    "epg": "HistoryLatinAmerica.us@South",
-    "group": "Culturales",
-    "number": "26"
-  },
-  {
-    "title": "History 2",
-    "url": "http://190.7.19.197:232/play/a019/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png",
-    "epg": "History2LatinAmerica.us@Panregional",
-    "group": "Culturales",
-    "number": "27"
-  },
-  {
-    "title": "Animal Planet",
-    "url": "http://190.7.19.197:232/play/a081/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png",
-    "epg": "AnimalPlanetLatinAmerica.us",
-    "group": "Culturales",
-    "number": "28"
-  },
-  {
-    "title": "Investigation Discovery (ID)",
-    "url": "http://191.52.214.129:8000/play/a08t/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png",
-    "epg": "InvestigationDiscoveryLatinAmerica.us@South",
-    "group": "Culturales",
-    "number": "29"
-  },
-  {
-    "title": "A&E",
-    "url": "http://190.7.19.197:232/play/a00c/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png",
-    "epg": "AELatinAmerica.us@South",
-    "group": "Culturales",
-    "number": "30"
-  },
-  {
-    "title": "Lifetime",
-    "url": "http://190.7.19.197:232/play/a01l/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png",
-    "epg": "LifetimeLatinAmerica.us@Panregional",
-    "group": "Culturales",
-    "number": "31"
-  },
-  {
-    "title": "DEPORTV",
-    "url": "http://190.7.19.197:232/play/a05d/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png",
-    "epg": "DeporTV.ar",
-    "group": "Deportes",
-    "number": "32"
-  },
-  {
-    "title": "TyC Sports",
-    "url": "http://190.7.19.197:232/play/a04w/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png",
-    "epg": "TyCSports.ar",
-    "group": "Deportes",
-    "number": "33"
-  },
-  {
-    "title": "ESPN",
-    "url": "http://190.7.19.197:232/play/a03n/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png",
-    "epg": "ar#espn-2",
-    "group": "Deportes",
-    "number": "34"
-  },
-  {
-    "title": "ESPN 2",
-    "url": "http://190.7.19.197:232/play/a03m/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png",
-    "epg": "ar#espn",
-    "group": "Deportes",
-    "number": "35"
-  },
-  {
-    "title": "ESPN 3",
-    "url": "http://190.7.19.197:232/play/a03o/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png",
-    "epg": "ar#espn-3",
-    "group": "Deportes",
-    "number": "36"
-  },
-  {
-    "title": "FOX Sports",
-    "url": "http://190.7.19.197:232/play/a05u/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png",
-    "epg": "FoxSports.ar",
-    "group": "Deportes",
-    "number": "37"
-  },
-  {
-    "title": "FOX Sports 2",
-    "url": "http://190.7.19.197:232/play/a03p/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png",
-    "epg": "FoxSports2.ar",
-    "group": "Deportes",
-    "number": "38"
-  },
-  {
-    "title": "FOX Sports 3",
-    "url": "http://190.7.19.197:232/play/a04x/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",
-    "epg": "FoxSports3LatinAmerica.us@Panregional",
-    "group": "Deportes",
-    "number": "39"
-  },
-  {
-    "title": "ESPN Premium",
-    "url": "http://190.7.19.197:232/play/a038/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png",
-    "epg": "ESPNPremium.ar",
-    "group": "Deportes",
-    "number": "40"
-  },
-  {
-    "title": "TNT Sports",
-    "url": "http://190.7.19.197:232/play/a037/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png",
-    "epg": "TNTSports.ar",
-    "group": "Deportes",
-    "number": "41"
-  },
-  {
-    "title": "Cartoon Network",
-    "url": "http://190.7.19.197:232/play/a05s/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png",
-    "epg": "CartoonNetworkLatinAmerica.us@SouthAtlantic",
-    "group": "Infantiles",
-    "number": "42"
-  },
-  {
-    "title": "Nickelodeon",
-    "url": "http://190.7.19.197:232/play/a03e/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png",
-    "epg": "ar#nickelodeon-hd",
-    "group": "Infantiles",
-    "number": "43"
-  },
-  {
-    "title": "Disney Channel",
-    "url": "http://190.7.19.197:232/play/a04v/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png",
-    "epg": "DisneyChannelLatinAmerica.ar@South",
-    "group": "Infantiles",
-    "number": "44"
-  },
-  {
-    "title": "Discovery Kids",
-    "url": "http://190.7.19.197:232/play/a05i/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png",
-    "epg": "DiscoveryKidsLatinAmerica.us@Panregional",
-    "group": "Infantiles",
-    "number": "45"
-  },
-  {
-    "title": "Nick Junior",
-    "url": "http://190.7.19.197:232/play/a01n/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png",
-    "epg": "NickJrLatinAmerica.us@South",
-    "group": "Infantiles",
-    "number": "46"
-  },
-  {
-    "title": "Disney Junior",
-    "url": "http://190.7.19.197:232/play/a03d/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png",
-    "epg": "ar#disney-jr",
-    "group": "Infantiles",
-    "number": "47"
-  },
-  {
-    "title": "Cartoonito",
-    "url": "http://190.7.19.197:232/play/a01w/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png",
-    "epg": "ar#boomerang-cartoon",
-    "group": "Infantiles",
-    "number": "48"
-  },
-  {
-    "title": "Star Channel",
-    "url": "http://190.7.19.197:232/play/a05w/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png",
-    "epg": "ar#fox-hd",
-    "group": "Cine & Series",
-    "number": "49"
-  },
-  {
-    "title": "FX",
-    "url": "http://190.7.19.197:232/play/a04z/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png",
-    "epg": "FXLatinAmerica.us@South",
-    "group": "Cine & Series",
-    "number": "50"
-  },
-  {
-    "title": "Cinemax",
-    "url": "http://190.7.19.197:232/play/a009/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png",
-    "epg": "ar#cinemax-sur",
-    "group": "Cine & Series",
-    "number": "51"
-  },
-  {
-    "title": "Space",
-    "url": "http://190.7.19.197:232/play/a050/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png",
-    "epg": "Space.ar@Panregional",
-    "group": "Cine & Series",
-    "number": "52"
-  },
-  {
-    "title": "Cinecanal",
-    "url": "http://190.7.19.197:232/play/a05y/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png",
-    "epg": "Cinecanal.us@Panregional",
-    "group": "Cine & Series",
-    "number": "53"
-  },
-  {
-    "title": "AXN",
-    "url": "http://190.7.19.197:232/play/a00b/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png",
-    "epg": "ar#axn",
-    "group": "Cine & Series",
-    "number": "54"
-  },
-  {
-    "title": "Warner Channel",
-    "url": "http://190.7.19.197:232/play/a01h/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png",
-    "epg": "WarnerChannel.us@South",
-    "group": "Cine & Series",
-    "number": "55"
-  },
-  {
-    "title": "Sony Channel",
-    "url": "http://190.7.19.197:232/play/a01g/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png",
-    "epg": "ar#sony-hd",
-    "group": "Cine & Series",
-    "number": "56"
-  },
-  {
-    "title": "Universal TV",
-    "url": "http://190.7.19.197:232/play/a03u/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png",
-    "epg": "UniversalTVLatinAmerica.us@South",
-    "group": "Cine & Series",
-    "number": "57"
-  },
-  {
-    "title": "Studio Universal",
-    "url": "http://190.7.19.197:232/play/a049/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StudioUniversal.png",
-    "epg": "StudioUniversalLatinAmerica.us@South",
-    "group": "Cine & Series",
-    "number": "58"
-  },
-  {
-    "title": "AMC",
-    "url": "http://190.7.19.197:232/play/a046/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png",
-    "epg": "AMCLatinAmerica.us",
-    "group": "Cine & Series",
-    "number": "59"
-  },
-  {
-    "title": "TNT",
-    "url": "http://190.7.19.197:232/play/a060/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png",
-    "epg": "TNTLatinAmerica.us@South",
-    "group": "Cine & Series",
-    "number": "60"
-  },
-  {
-    "title": "TNT Series",
-    "url": "http://190.7.19.197:232/play/a088/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png",
-    "epg": "TNTSeriesLatinAmerica.us@South",
-    "group": "Cine & Series",
-    "number": "61"
-  },
-  {
-    "title": "TNT Novelas",
-    "url": "http://190.7.19.197:232/play/a00g/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png",
-    "epg": "TBSSouth.us",
-    "group": "Novelas",
-    "number": "62"
-  },
-  {
-    "title": "HBO",
-    "url": "http://191.52.214.129:8000/play/a09k/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png",
-    "epg": "ar#hbo",
-    "group": "Cine & Series",
-    "number": "63"
-  },
-  {
-    "title": "HBO 2",
-    "url": "http://190.7.19.197:232/play/a05g/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png",
-    "epg": "ar#hbo-2-hd",
-    "group": "Cine & Series",
-    "number": "64"
-  },
-  {
-    "title": "HBO Plus",
-    "url": "http://190.238.43.117:8000/play/a03c/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png",
-    "epg": "ar#hbo-plus-este",
-    "group": "Cine & Series",
-    "number": "65"
-  },
-  {
-    "title": "HBO Family",
-    "url": "http://191.52.214.129:8000/play/a08f/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png",
-    "epg": "ar#hbo-family-hd",
-    "group": "Cine & Series",
-    "number": "66"
-  },
-  {
-    "title": "HBO Pop",
-    "url": "http://190.7.19.197:232/play/a016/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png",
-    "epg": "HBOPopLatinAmerica.us",
-    "group": "Cine & Series",
-    "number": "67"
-  },
-  {
-    "title": "HBO Xtreme",
-    "url": "http://190.238.43.117:8000/play/a010/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png",
-    "epg": "HBOXtremeLatinAmerica.us",
-    "group": "Cine & Series",
-    "number": "68"
-  },
-  {
-    "title": "Cine.ar",
-    "url": "http://190.7.19.197:232/play/a04b/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-CineAr.png",
-    "epg": "CineAr.ar",
-    "group": "Cine & Series",
-    "number": "69"
-  },
-  {
-    "title": "TCM",
-    "url": "http://190.7.19.197:232/play/a014/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png",
-    "epg": "TCMLatinAmerica.us@South",
-    "group": "Cine & Series",
-    "number": "70"
-  },
-  {
-    "title": "Volver",
-    "url": "http://190.7.19.197:232/play/a048/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Volver.png",
-    "epg": "Volver.ar",
-    "group": "Cine & Series",
-    "number": "71"
-  },
-  {
-    "title": "Pasiones",
-    "url": "http://190.7.19.197:232/play/a01u/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png",
-    "epg": "PasionesLatinAmerica.us",
-    "group": "Novelas",
-    "number": "72"
-  },
-  {
-    "title": "Food Network",
-    "url": "http://217.26.190.76:8888/play/a0mb/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png",
-    "epg": "FoodNetworkLatinAmerica.us@Panregional",
-    "group": "Cocina",
-    "number": "73"
-  },
-  {
-    "title": "El Gourmet",
-    "url": "http://190.7.19.197:232/play/a01p/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png",
-    "epg": "ElGourmet.ar@South",
-    "group": "Cocina",
-    "number": "74"
-  },
-  {
-    "title": "Hola TV",
-    "url": "http://45.238.54.67:8000/play/a0aj/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png",
-    "epg": "HolaTVLatinAmerica.us",
-    "group": "Espectaculo",
-    "number": "75"
-  },
-  {
-    "title": "E! Entertainment",
-    "url": "http://190.7.19.197:232/play/a00a/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-E.png",
-    "epg": "ELatinAmerica.us@Andes",
-    "group": "Espectaculo",
-    "number": "76"
-  },
-  {
-    "title": "Ciudad Magazine",
-    "url": "http://190.7.19.197:232/play/a04l/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png",
-    "epg": "CiudadMagazine.ar",
-    "group": "Espectaculo",
-    "number": "77"
-  },
-  {
-    "title": "MTV",
-    "url": "http://190.7.19.197:232/play/a04q/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png",
-    "epg": "MTVLatinAmerica.us@Panregional",
-    "group": "Música",
-    "number": "78"
-  },
-  {
-    "title": "HTV",
-    "url": "http://190.7.19.197:232/play/a01a/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png",
-    "epg": "HTV.us",
-    "group": "Música",
-    "number": "79"
-  },
-  {
-    "title": "Music Top",
-    "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MusicTop.png",
-    "epg": "MusicTop.ar",
-    "group": "Música",
-    "number": "80"
+    "name": "EVENTOS IMPORTANTES EN VIVO âœ¨Activo cuando hay transmisiones exclusivasâœ¨",
+    "samples": [
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fedd8024dee4.44869273.png"
+      },
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fedd8c89a169.21411050.png"
+      },
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fedd979103c2.97398481.png"
+      },
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fedda2e75589.27501858.png"
+      },
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feddaf9ed856.22035510.png"
+      },
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feddc0514f05.63660330.png"
+      },
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feddcfde0390.87634062.png"
+      },
+      {
+        "name": "Eventos",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fedddec0d351.76658357.png"
+      }
+    ],
+    "hidden_samples": [
+      {
+        "name": "Futbol ðŸ‡µðŸ‡¾ 1",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fe574a402f54.72616248.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+      },
+      {
+        "name": "Futbol ðŸ‡µðŸ‡¾ 2",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fe576636dc49.64302662.png",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "FireFox"
+        }
+      },
+      {
+        "name": "MLS",
+        "url": "https://streams.bitmovin.com/d3epag3hih7hje4v7150/manifest.m3u8",
+        "type": "HLS",
+        "icono": "https://github.com/dog852223/windows32/blob/main/mls.png?raw=true",
+        "headers": {
+          "Origin": "https://elverruca.tech",
+          "Referer": "https://elverruca.tech/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "name": "CANALES DE ARGENTINA  ðŸ‡¦ðŸ‡·",
+    "samples": [
+      {
+        "name": "*America TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd7faa33ea08.68506913.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*El Nueve",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd7fc4487475.00542315.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Telefe",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd7fd8a908d5.88183605.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*El Trece",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd7ffcd1f951.29881621.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*TV Publica",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd800a1da4b8.43213822.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Argentinisima",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd802027b020.68023905.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Encuentro",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd8032512715.52033318.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*Canal A",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_C/Canal_a.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd803f35c997.22245586.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*Volver",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd804af1dc48.13345955.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*Garage TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd805843f704.73693615.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03d1dfb8df034d8b81e57753df00a36d&key=08d83660db4a73bb1d61d60b09df5f4d",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*Bravo TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_C/BravoTV.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://github.com/dog852223/windows32/blob/main/argentina/BRAVO%20TV.png?raw=true",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*Canal Rural",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_C/Canal_Rural.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd810d90ba71.37479138.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Ciudad Magazine",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd8077aa6ec0.73910692.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*Canal de la Ciudad",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd8084ece784.29185806.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ee7842b3cf24d1dba088365fa5d0543&key=69cec006409823c06fbf2866a231b4f7",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Telemax",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_C/Telemax.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd80968dc4d5.00258486.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7ec364ad6854fedad797538cb58780d&key=57dfb3fca2ca35b37ff81c35595e9be8",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*Cine AR",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_C/INCAA_Tv.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd80a2c99731.26967176.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d44f40e49d2945c1a3701c0885ff0b00&key=6382b6279087402714b6824688c456df",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Mix TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd80ae75dbd8.19325831.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e1327b5b1f4dfe767aec622c9ef64ce&key=60c64a922af0121bf73261c825e33f18",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "*DeporTV",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd80bcd0bb18.16930200.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f362097815892a4b83950f1d106ff0b2&key=4349e42e81c31a8389f4a42fcd298928",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "Â°Chacra TV",
+        "url": "https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd80d823b154.56980693.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68e7788389d18bfa49daf812c581a3b0&key=b4ef16f31325e24d16390ea74b088512",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "*Telefe Internacional",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fedf1f406fd6.01425818.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        },
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877"
+      },
+      {
+        "name": "*El Trece Internacional",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fedf2bb94725.28906772.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5bd469f8bf268d5d148c3971c7c23fca&key=9af98080d22846fdf2988b8ba9ec4add",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      }
+    ]
+  },
+  {
+    "name": "CANALES DE NOTICIAS  ðŸ“°",
+    "samples": [
+      {
+        "name": "*TN Noticias",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd82c7bafc60.60027485.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Cronica TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd82d33ae8d2.61241469.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352"
+        }
+      },
+      {
+        "name": "*C5N",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd82f416c880.83044932.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*A24",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd82fff1a799.10155847.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Canal 26",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd830da28322.51397723.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*La Nacion+",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd831f3bacc0.28072637.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Canal IP",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd832b25f2c0.56705067.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5299f96f873aa0f0e47edc4e15784717&key=9d53176b0969492f2d93f1867be1dce1",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Net TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd833807e522.64390106.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Diputados TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_C/Diputados_TV.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd8345643a42.65762973.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9666b195171442afd4551a8de01291a6&key=1c0061df9b4b098e40355167e97cfbf0",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*D News",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc_C/DNews.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd8357541060.72208500.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=21563d82cfb7fdd18b213f0bd92a274f&key=5940d8d0b57b9e6533e99cc0e7bf2f8e",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Deutsche Welle",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc_C/DW.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd836b1d91a7.65549810.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Euronews",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_C/Euronews.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd84a2e46be3.57541774.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*CNN En EspaÃ±ol",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Espanol.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd83a788e264.90098582.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*France24 EspaÃ±ol",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc_C/France24_Flow.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd83b3eab837.46135551.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Â°Canal E",
+        "url": "https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd83c5086436.09878309.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1894229072ccac2d0f6a101d618d039d&key=9a7ea848df202bf22ac51bda4482a4c2",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "*Fox News",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc_C/Fox_News.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd83d428d240.05836329.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3fe3f31a5e7b48a1b548e9364757ce66&key=32993fc281207fe915f6f1e990957868",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*CNN Internacional",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc_C/CNN_Internacional.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd8539d0d9c7.26222066.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f24708ad1184ee3a04b650941f9894b&key=e5bc7c5ff392119423dbf1c023a7b21c",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*France24",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc_C/France_24.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd83ff69e963.67581090.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=72187f2651724db18505cdcad435841d&key=6f41e05476e34edf7bb9dc51f08f95df",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*BBC News",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_C/BBC_World_News.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd840cf1e379.81655539.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Bloomberg TV",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_C/Bloomberg.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd841e7e2b98.40606531.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e50891cdc64452aae20d049727f2f3f&key=551871ba1dc6a95597ec0cb82eb3b2a4",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*Al Jazeera",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc_C/Alljazzera.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd842c12ec10.78684342.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=137a1a70fa118b695118a3aad9485b13&key=7c35ca36d4452dfa03d88725a0d16105",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "CANALES DEL INTERIOR DE ARGENTINA  1  ðŸ‡¦ðŸ‡·",
+    "samples": [
+      {
+        "name": "*America Tucuman",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc_C/America_Tucuman.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd85d8cd5611.33950332.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ÂºCooperativo Alicia",
+        "url": "https://cdn.sensa.com.ar/output/LVR/CCAD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/160/160/0/0/38808379077146.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "ÂºTVco Pico",
+        "url": "https://cdn.sensa.com.ar/output/ARR/TVCOD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2482/CH_LOGO/160/160/0/0/85617370076521.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f9261beee045d06c325c380b9275e15&key=89976f64ccde3509e15e38c9196a529f",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 Almafuerte",
+        "url": "https://cdn.sensa.com.ar/output/ARR/ALMD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2536/CH_LOGO/160/160/0/0/98726444077724.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "*2 Carlos Paz",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd283ae03f28.23966772.jpg",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7804609194dc7145bf297153276096d2&key=03d3f4e3d0b35362dadfddce10dee00c",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "*2 Canal C (Cba)",
+        "url": "https://chromecast.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://infonegocios.info/content/companies/logos/81031_Canal%20C.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9a866ca98bef2351a68e4843139f8073&key=b0893077653d1ef842a1b65d8b34455a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Âº2 CeltTV Tornquist",
+        "url": "https://cdn.sensa.com.ar/output/SMT3/CELTTVD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/3342/CH_LOGO/160/160/0/0/41079403078757.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 CeTV Canal Deheza",
+        "url": "https://cdn.sensa.com.ar/output/ARR/DehezaD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/160/160/0/0/88623159076702.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f9261beee045d06c325c380b9275e15&key=89976f64ccde3509e15e38c9196a529f",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 Cpe Santa Rosa La Pampa",
+        "url": "https://cdn.sensa.com.ar/output/ARR/SRLPD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2483/CH_LOGO/160/160/0/0/12926473072353.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f9261beee045d06c325c380b9275e15&key=89976f64ccde3509e15e38c9196a529f",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 El Sauce TV VGB",
+        "url": "https://cdn.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/3882/CH_LOGO/160/160/0/0/54537430079017.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 Golcable",
+        "url": "https://cdn.sensa.com.ar/output/SMT5/GolcableD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2527/CH_LOGO/160/160/0/0/39411063077630.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Â°2 Ntv Tortuguitas",
+        "url": "https://cdn.sensa.com.ar/output/SMT5/NTVD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/160/160/0/0/60976969078835.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 Las Varillas",
+        "url": "https://cdn.sensa.com.ar/output/LVR/STV2D/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/3042/CH_LOGO/160/160/0/0/50103492078472.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 Pueblo San JosÃ©",
+        "url": "https://cdn.sensa.com.ar/output/SMT2/PSJD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2531/CH_LOGO/160/160/0/0/91408905077946.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº2 RioTel (RÃ­o Tercero)",
+        "url": "https://cdn.sensa.com.ar/output/SMT3/RTD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2801/CH_LOGO/160/160/0/0/56157196078230.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº3 Arroyito",
+        "url": "https://cdn.sensa.com.ar/output/ARR3/C3AD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2941/CH_LOGO/160/160/0/0/21304890078316.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "*3 Rosario",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_C/Canal_3_Rosario.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd85f5037852.42875123.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Âº3 Tacural",
+        "url": "https://cdn.sensa.com.ar/output/ARR2/TacuralD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1819/CH_LOGO/160/160/0/0/70000132077572.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f9261beee045d06c325c380b9275e15&key=89976f64ccde3509e15e38c9196a529f",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº4 TvCoop Posse",
+        "url": "https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/160/160/0/0/2990054407460.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c"
+      },
+      {
+        "name": "Âº4 Coopetel TV - El BolsÃ³n",
+        "url": "https://cdn.sensa.com.ar/output/SMT4/CPTD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/160/160/0/0/11228946078364.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº4 Marchi TV",
+        "url": "https://cdn.sensa.com.ar/output/SMT2/MARCHITVD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2528/CH_LOGO/160/160/0/0/60393547077609.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº4 PingÃ¼Ã©",
+        "url": "https://cdn.sensa.com.ar/output/SMT3/C4PD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2533/CH_LOGO/160/160/0/0/70000165078012.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº5 Coop Colonia Caroya",
+        "url": "https://cdn.sensa.com.ar/output/COR/CanalCoopD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2518/CH_LOGO/160/160/0/0/12868197073593.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Â°5 Coonet Brinkmann",
+        "url": "https://cdn.sensa.com.ar/output/SMT4/BRKD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1241/CH_LOGO/160/160/0/0/42902231076974.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº5 Nexos Multimedio Cooperativo",
+        "url": "https://cdn.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2511/CH_LOGO/160/160/0/0/46132478077122.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f9261beee045d06c325c380b9275e15&key=89976f64ccde3509e15e38c9196a529f",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "*5 Telefe Rosario",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_C/Canal_5_Rosario.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      {
+        "name": "Âº5 TV Coop Hernando",
+        "url": "https://cdn.sensa.com.ar/output/ARR2/HERD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/3482/CH_LOGO/160/160/0/0/66473712078884.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "Âº6 Freyre",
+        "url": "https://cdn.sensa.com.ar/output/ARR3/FRYD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2535/CH_LOGO/160/160/0/0/95897423078121.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      },
+      {
+        "name": "*7 Bahia Blanca",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_C/Canal7_Bahia_Blanca.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://github.com/dog852223/windows32/blob/main/argentina/EL%20TRECE%20ARG.png?raw=true",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Â°7 DBosco TV",
+        "url": "https://cdn.sensa.com.ar/output/ARR2/C7SAAD/output.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/160/160/0/0/18862298077160.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "webtoken": "1.0"
+        }
+      }
+    ]
   }
 ]
