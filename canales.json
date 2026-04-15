@@ -639,6 +639,37 @@
     "license_type": "clearkey",
     "license_key": "069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd"
+  },
+  [
+  {
+    "name": "Allegro",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/allegrotv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd",
+    "clearkey": "e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2"
+  },
+  {
+    "name": "CM",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CM.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_C/CM.mpd",
+    "clearkey": "682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25"
+  },
+  {
+    "name": "HTV",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/htv.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_C/HTV.mpd",
+    "clearkey": "daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d"
+  },
+  {
+    "name": "Quiero Musica",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quieromusica.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd",
+    "clearkey": "a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28"
+  },
+  {
+    "name": "Tierramia TV",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png",
+    "url": "http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8",
+    "clearkey": "N/A"
   }
-
+]
 ]
