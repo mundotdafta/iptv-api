@@ -664,14 +664,14 @@
   {
     "name": "Vorterix",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Vorterix.png",
-    "group": "📻 Radio en Vivo",
+    "group": "🎵​ Musica",
     "license_key": "eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd"
   },
   {
     "name": "Latina",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/latina.png",
-    "group": "📻 Radio en Vivo",
+    "group": "🎵​ Musica",
     "license_key": null,
     "url": "http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8"
   }    
