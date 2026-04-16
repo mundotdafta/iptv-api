@@ -4,7 +4,17 @@
       "username": "mariano",
       "password": "12345",
       "enabled": true,
-      "max_devices": 5
+      "max_devices": 5,
+      "fecha_inicio": "20-05-2024",
+      "fecha_cierre": "20-06-2024"
+    },
+    {
+      "username": "pedro",
+      "password": "1234",
+      "enabled": true,
+      "max_devices": 1,
+      "fecha_inicio": "21-05-2024",
+      "fecha_cierre": "21-06-2024"
     }
   ]
 }
