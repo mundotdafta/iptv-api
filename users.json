@@ -3,7 +3,6 @@
     {
       "username": "mariano",
       "password": "12345",
-      "avatar": "https://githubusercontent.com",
       "fecha_inicio": "16-04-2026",
       "fecha_cierre": "17-04-2026",
       "enabled": true,
@@ -15,7 +14,6 @@
     {
       "username": "pedro_iptv",
       "password": "mypassword",
-      "avatar": "https://githubusercontent.com",
       "fecha_inicio": "01-05-2026",
       "fecha_cierre": "01-05-2027",
       "enabled": true,
@@ -27,7 +25,6 @@
     {
       "username": "lucia_tv",
       "password": "abc12",
-      "avatar": "https://githubusercontent.com",
       "fecha_inicio": "10-06-2026",
       "fecha_cierre": "10-12-2026",
       "enabled": true,
