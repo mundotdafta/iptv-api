@@ -3,18 +3,39 @@
     {
       "username": "mariano",
       "password": "12345",
-      "enabled": true,
-      "max_devices": 1,
+      "avatar": "https://githubusercontent.com",
       "fecha_inicio": "16-04-2026",
-      "fecha_cierre": "20-06-2027"
+      "fecha_cierre": "20-06-2027",
+      "enabled": true,
+      "devices": [
+        "",
+        ""
+      ]
     },
     {
-      "username": "yuyi",
-      "password": "1111",
+      "username": "pedro_iptv",
+      "password": "mypassword",
+      "avatar": "https://githubusercontent.com",
+      "fecha_inicio": "01-05-2026",
+      "fecha_cierre": "01-05-2027",
       "enabled": true,
-      "max_devices": 1,
-      "fecha_inicio": "16-04-2026",
-      "fecha_cierre": "18-04-2026"
+      "devices": [
+        "",
+        ""
+      ]
+    },
+    {
+      "username": "lucia_tv",
+      "password": "abc12",
+      "avatar": "https://githubusercontent.com",
+      "fecha_inicio": "10-06-2026",
+      "fecha_cierre": "10-12-2026",
+      "enabled": true,
+      "devices": [
+        "",
+        ""
+      ]
     }
   ]
 }
+
