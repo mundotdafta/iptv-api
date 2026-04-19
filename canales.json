@@ -755,5 +755,37 @@
     "license_type": "clearkey",
     "license_key": "b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3",
     "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc_C/Canal_Ciudad_MDQ.mpd"
+  },
+  {
+    "name": "Playboy TV (18+)",
+    "logo": "https://i.postimg.cc/tTLGm9X6/Playboy_TV.png",
+    "group": "🔥 Adultos",
+    "license_type": "clearkey",
+    "license_key": "8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd"
+  },
+  {
+    "name": "Venus (18+)",
+    "logo": "https://i.postimg.cc/fL6QgMwf/Venus.png",
+    "group": "🔥 Adultos",
+    "license_type": "clearkey",
+    "license_key": "34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd"
+  },
+  {
+    "name": "Hustler Mature (18+)",
+    "logo": "https://i.postimg.cc/x8ZQzNsf/Hustler-mature.png",
+    "group": "🔥 Adultos",
+    "license_type": "clearkey",
+    "license_key": "cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd"
+  },
+  {
+    "name": "Sextreme (18+)",
+    "logo": "https://i.postimg.cc/k4kPh7nx/Sextreme.png",
+    "group": "🔥 Adultos",
+    "license_type": "clearkey",
+    "license_key": "95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd"
   }
 ]
