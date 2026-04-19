@@ -667,6 +667,7 @@
     "group": "🎵​ Musica",
     "license_key": "eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd"
+    },
     {
     "name": "Canal 90 Digital",
     "logo": "https://i.postimg.cc/K8HLKxkr/Canal-90-Digital.png",
@@ -706,7 +707,6 @@
     "license_type": "clearkey",
     "license_key": "b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7",
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd"
-  }
   },
   {
     "name": "Canal 8 MDQ",
