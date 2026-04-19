@@ -336,13 +336,12 @@
     "url": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd"
   },
   {
-    "name": "Claro Sports",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHclarosports.png",
+    "name": "Futbol 🇵🇾 1",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png",
     "group": "⚽ Deportes",
     "license_type": "clearkey",
-    "license_key": "04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c",
-    "url": "https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd",
-    "referer": "https://player.sensa.com.ar/"
+    "license_key": "1c62a216a5fe423f959cb1ca02f62d8354f2fdc83c1da33cd9269bf21e08218c",
+    "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd"
   },
   {
     "name": "DeporTV",
