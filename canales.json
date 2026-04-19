@@ -667,6 +667,46 @@
     "group": "🎵​ Musica",
     "license_key": "eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd"
+    {
+    "name": "Canal 90 Digital",
+    "logo": "https://i.postimg.cc/K8HLKxkr/Canal-90-Digital.png",
+    "group": "🎙️ Interés General",
+    "license_type": "clearkey",
+    "license_key": "ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_C/Canal_90.mpd"
+  },
+  {
+    "name": "Flow Music 2",
+    "logo": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+    "group": "🎙️ Música",
+    "license_type": "clearkey",
+    "license_key": "f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd"
+  },
+  {
+    "name": "Flow Music 3",
+    "logo": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+    "group": "🎙️ Música",
+    "license_type": "clearkey",
+    "license_key": "596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd"
+  },
+  {
+    "name": "Flow Music 4",
+    "logo": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+    "group": "🎙️ Música",
+    "license_type": "clearkey",
+    "license_key": "e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd"
+  },
+  {
+    "name": "Flow Music",
+    "logo": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+    "group": "🎙️ Música",
+    "license_type": "clearkey",
+    "license_key": "b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd"
+  }
   },
   {
     "name": "Canal 8 MDQ",
