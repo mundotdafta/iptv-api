@@ -786,5 +786,77 @@
     "license_type": "clearkey",
     "license_key": "95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd"
+  },
+  {
+    "name": "✔️ Baby TV 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHbabytv.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd"
+  },
+  {
+    "name": "✔️ Canal Infantil 📱",
+    "logo": "https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c",
+    "url": "http://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://player.sensa.com.ar/"
+  },
+  {
+    "name": "✔️ Cartoonito 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonito.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd"
+  },
+  {
+    "name": "✔️ Cartoon Network 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd"
+  },
+  {
+    "name": "✔️ Disney Channel 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyChannelHD.mpd"
+  },
+  {
+    "name": "✔️ Disney JR 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac",
+    "url": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd"
+  },
+  {
+    "name": "✔️ Kidoo 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHkidoo.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d",
+    "url": "http://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd"
+  },
+  {
+    "name": "✔️ Nickelodeon 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.mpd"
+  },
+  {
+    "name": "✔️ Nick JR 📱",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickjr.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd"
   }
 ] 
