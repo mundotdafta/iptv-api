@@ -788,7 +788,7 @@
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd"
   },
   {
-    "name": "✔️ Baby TV 📱",
+    "name": "✔️ Baby TV ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHbabytv.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -796,7 +796,7 @@
     "url": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd"
   },
   {
-    "name": "✔️ Canal Infantil 📱",
+    "name": "✔️ Canal Infantil ",
     "logo": "https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -804,7 +804,7 @@
     "url": "http://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://player.sensa.com.ar/"
   },
   {
-    "name": "✔️ Cartoonito 📱",
+    "name": "✔️ Cartoonito ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonito.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -812,7 +812,7 @@
     "url": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd"
   },
   {
-    "name": "✔️ Cartoon Network 📱",
+    "name": "✔️ Cartoon Network ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -820,7 +820,7 @@
     "url": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd"
   },
   {
-    "name": "✔️ Disney Channel 📱",
+    "name": "✔️ Disney Channel ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -828,7 +828,7 @@
     "url": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyChannelHD.mpd"
   },
   {
-    "name": "✔️ Disney JR 📱",
+    "name": "✔️ Disney JR ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -836,7 +836,7 @@
     "url": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd"
   },
   {
-    "name": "✔️ Kidoo 📱",
+    "name": "✔️ Kidoo ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHkidoo.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -844,7 +844,7 @@
     "url": "http://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd"
   },
   {
-    "name": "✔️ Nickelodeon 📱",
+    "name": "✔️ Nickelodeon ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
@@ -852,11 +852,43 @@
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.mpd"
   },
   {
-    "name": "✔️ Nick JR 📱",
+    "name": "✔️ Nick JR ",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickjr.png",
     "group": "🎈 Infantil",
     "license_type": "clearkey",
     "license_key": "e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd"
+  },
+  {
+    "name": "✔️ Tooncast ",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHtooncast.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd"
+  },
+  {
+    "name": "✔️ Plim Plim TV ",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHplimplim.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc_C/Plim_Plim.mpd"
+  },
+  {
+    "name": "✔️ Paka Paka ",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHpakapaka.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd"
+  },
+  {
+    "name": "✔️ Adult Swim ",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHadultswim.png",
+    "group": "🎈 Infantil",
+    "license_type": "clearkey",
+    "license_key": "9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd"
   }
 ] 
