@@ -893,102 +893,82 @@
   },
   {
     "name": "Telefe",
-    "tvg_id": "Telefe",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "865b35fdb4c119f3ccfd4ee392928aef:b43adf6d88b3befbf7f69a71dc273e46",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd"
   },
   {
     "name": "TV Publica",
-    "tvg_id": "TV_Publica",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/TV_Publica/sa_live_dash/TV_Publica.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "f50f7ac8cca2bcb40bf4a895b6378cea:0ca9392a44d0c0ff79abc01c15df8888",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/TV_Publica/sa_live_dash/TV_Publica.mpd"
   },
   {
     "name": "Canal 13",
-    "tvg_id": "Canal_13",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/Canal_13/sa_live_dash/Canal_13.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "949b84fa1101cbbde24d616e3e36fc04:ea87aa98660f4f965e6b9584369c5fa3",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/Canal_13/sa_live_dash/Canal_13.mpd"
   },
   {
     "name": "Canal A",
-    "tvg_id": "CanalA",
-    "tvg_logo": "",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/CanalA/sa_live_dash/CanalA.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "097578fb861438a8deecc5643082997b:3ac02ae9a503e76a58f1e94eebd5f43d",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/CanalA/sa_live_dash/CanalA.mpd"
   },
   {
     "name": "TN",
-    "tvg_id": "TN",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/TN/sa_live_dash/TN.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "c5bb6f9ef3b632b7ba2797048b4941a0:53f33a7ab0729daee5dbe8ecc8ee2c08",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/TN/sa_live_dash/TN.mpd"
   },
   {
     "name": "C5N",
-    "tvg_id": "C5N",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "a4b47d87494bd17dd7acf86ebb6c3a32:5df76e3d86d8d88799c52eae263d08b0",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd"
   },
   {
     "name": "Canal 9",
-    "tvg_id": "Canal_9",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/Canal_9/sa_live_dash/Canal_9.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "eaecaad505a66fab4161959099767384:ca66afd7ba0f3ce767b698b5e94c84e3",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/Canal_9/sa_live_dash/Canal_9.mpd"
   },
   {
     "name": "America TV",
-    "tvg_id": "AmericaTV",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "32392e5868873c91ca77a0406b3d32d8:0f74f66dbeda0bb43b32445ea74d2087",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd"
   },
   {
     "name": "LN+",
-    "tvg_id": "LNmas",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/LNmas/sa_live_dash/LNmas.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "ffbe99278cd1aea87b3506d1c06defd6:fa8d96b8c2d97390ab329241a4e651ae",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/LNmas/sa_live_dash/LNmas.mpd"
   },
   {
     "name": "A24",
-    "tvg_id": "A24",
-    "tvg_logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png",
-    "group_title": "🎙️ Noticias/🧉Converge",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/A24/sa_live_dash/A24.mpd",
-    "license_type": "org.w3.clearkey",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png",
+    "group": "🎙️ Noticias/🧉Converge",
+    "license_type": "clearkey",
     "license_key": "c43779fa115f80c118c29665cc78e4ba:4303ea7157eb2e6f6ce980bb87183825",
-    "manifest_type": "dash"
+    "url": "https://cdnlb.gigared.com.ar/live/eds/A24/sa_live_dash/A24.mpd"
   }
 ] 
