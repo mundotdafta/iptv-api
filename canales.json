@@ -890,25 +890,6 @@
     "license_type": "clearkey",
     "license_key": "9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd"
-  },
-   {
-    "name": "Telefe",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "group": "🎙️ Noticias/🧉Converge",
-    "type": "dash",
-    "license_type": "clearkey",
-    "license_key": "865b35fdb4c119f3ccfd4ee392928aef:b43adf6d88b3befbf7f69a71dc273e46",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd"
-  },
-  {
-    "name": "TV Publica",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
-    "group": "🎙️ Noticias/🧉Converge",
-    "type": "dash",
-    "license_type": "clearkey",
-    "license_key": "f50f7ac8cca2bcb40bf4a895b6378cea:0ca9392a44d0c0ff79abc01c15df8888",
-    "url": "https://cdnlb.gigared.com.ar/live/eds/TV_Publica/sa_live_dash/TV_Publica.mpd"
-  },
-  {
-  
+  }
+   
 ] 
