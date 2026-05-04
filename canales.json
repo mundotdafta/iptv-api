@@ -890,68 +890,7 @@
     "license_type": "clearkey",
     "license_key": "9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15",
     "url": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd"
-  },
-  {
-    "name": "C5N",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png",
-    "group": "🎙️ Noticias +",
-    "license_type": "clearkey",
-    "license_key": "a4b47d87494bd17dd7acf86ebb6c3a32:5df76e3d86d8d88799c52eae263d08b0",
-    "url": "https://cdn03.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd"
-  },
-  {
-    "name": "Cronica TV",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png",
-    "group": "🎙️ Noticias +",
-    "license_type": "clearkey",
-    "license_key": "2932730b9b35ad5ded0e4d96af122676:57f01dd4f21f8786352399c80d36caf8",
-    "url": "https://cdn02.gigared.com.ar/live/eds/CronicaTV/sa_live_dash/CronicaTV.mpd"
-  },
-  {
-    "name": "Canal 26",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png",
-    "group": "🎙️ Noticias +",
-    "license_type": "clearkey",
-    "license_key": "e9a29d60110b731c5f3a141084379a40:8dcb1a09a6007fe72d621a09017276ba",
-    "url": "https://cdn02.gigared.com.ar/live/eds/Canal26/sa_live_dash/Canal26.mpd"
-  },
-  {
-    "name": "A24",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png",
-    "group": "🎙️ Noticias +",
-    "license_type": "clearkey",
-    "license_key": "c43779fa115f80c118c29665cc78e4ba:4303ea7157eb2e6f6ce980bb87183825",
-    "url": "https://cdn02.gigared.com.ar/live/eds/A24/sa_live_dash/A24.mpd"
-  },
-  {
-    "name": "El Nueve",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
-    "group": "🎙️ Noticias +",
-    "license_type": "clearkey",
-    "license_key": "eaecaad505a66fab4161959099767384:ca66afd7ba0f3ce767b698b5e94c84e3",
-    "url": "https://cdn02.gigared.com.ar/live/eds/Canal_9/sa_live_dash/Canal_9.mpd"
-  },
-  {
-    "name": "ESPN Premium ",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
-    "group": "⚽ Deportes +",
-    "license_type": "clearkey",
-    "license_key": "dca96877c202470bdad9839bea525c0a:d651871131d4b26f0095bcb9771b8f2f",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
-    },
-    "url": "https://cdn03.gigared.com.ar/live/eds/ESPN_Premium/sa_live_dash/ESPN_Premium.mpd"
-  },
-  {
-    "name": "TNT Sports Premium ",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
-    "group": "⚽ Deportes +",
-    "license_type": "clearkey",
-    "license_key": "f26eb059fb0854f4d4218c895d7ae803:ffcb3fd4bd5657889215be4cb6275d1b",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 16; RMX3853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
-    },
-    "url": "https://cdn03.gigared.com.ar/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd"
   }
-   
+  
+  
 ] 
