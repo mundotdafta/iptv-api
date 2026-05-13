@@ -576,6 +576,15 @@
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd"
   },
   {
+  "name": "TNT",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png",
+  "group": "🎬 Cine",
+  "type": "dash",
+  "license_type": "clearkey",
+  "license_key": "faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0",
+  "url": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mpd"
+},
+  {
     "name": "TNT Series",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png",
     "group": "🎬 Cine",
