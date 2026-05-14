@@ -903,32 +903,32 @@
    {
         "nombre": "Canal de la ciudad",
         "categoria": "Argentina",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_de_la_ciudad-mp4a_145200_spa=21.m3u8"
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_de_la_ciudad-master_145200_spa=21.m3u8"
     },
     {
         "nombre": "Diputados TV",
         "categoria": "Argentina",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Diputados_TV-mp4a_145200_spa=14.m3u8"
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Diputados_TV-master_145200_spa=14.m3u8"
     },
     {
         "nombre": "KZO",
         "categoria": "Argentina",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO-mp4a_97200_spa=2.m3u8"
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO-master_97200_spa=2.m3u8"
     },
     {
         "nombre": "Metro",
         "categoria": "Argentina",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_hls_full_e_95AEFABF606F67368D62A486/Metro-mp4a_97200_spa=12.m3u8"
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_hls_full_e_95AEFABF606F67368D62A486/Metro-master_97200_spa=12.m3u8"
     },
     {
         "nombre": "Encuentro",
         "categoria": "Argentina",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_hls_full_e_95AEFABF606F67368D62A486/Encuentro-mp4a_145200_spa=14.m3u8"
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_hls_full_e_95AEFABF606F67368D62A486/Encuentro-master_145200_spa=14.m3u8"
     },
     {
         "nombre": "América TV",
         "categoria": "Argentina",
-        "url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV-mp4a_145200_spa=20001.m3u8"
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV-master_145200_spa=20001.m3u8"
     },
     {
         "nombre": "TV Pública",
