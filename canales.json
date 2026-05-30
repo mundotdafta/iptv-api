@@ -1,5 +1,13 @@
 [
   {
+    "name": "DSports_2",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png",
+    "group": "🎙️ Noticias",
+    "license_type": "clearkey",
+    "license_key": "0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/DSports_2/SA_Live_dash_cenc/DSports_2.mpd"
+  },
+  {
     "name": "Cronica TV",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png",
     "group": "🎙️ Noticias",
